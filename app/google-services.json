@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071954595333",
+    "project_id": "pruebatecnica-875af",
+    "storage_bucket": "pruebatecnica-875af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071954595333:android:bfa0f4299360819a59166c",
+        "android_client_info": {
+          "package_name": "com.wabs.pruebatecnica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071954595333-fs4mq6eot7uuhlbmbq5qt663119385ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNSQM0gkvrz-7Zo_w3OVtZbj5gkGbcAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071954595333-fs4mq6eot7uuhlbmbq5qt663119385ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
